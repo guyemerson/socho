@@ -1,0 +1,2 @@
+# socho
+Social choice algorithms
